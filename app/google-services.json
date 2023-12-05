@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419778461672",
+    "project_id": "applicationlogin-cd2a2",
+    "storage_bucket": "applicationlogin-cd2a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419778461672:android:7e92ff0b916d726898ae5d",
+        "android_client_info": {
+          "package_name": "com.example.helloword"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8tAe1kXk6b82CdDQEXFHyQ-5yDt_uS98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
